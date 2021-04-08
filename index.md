@@ -1,4 +1,5 @@
-![image](https://user-images.githubusercontent.com/82177200/114082891-2b441b00-9863-11eb-832c-b9a57e9e3631.png)
+![image](https://user-images.githubusercontent.com/82177200/114085716-92af9a00-9866-11eb-88b8-cdf96a0ac131.png)
+
 
 
 ## Real Madrid Transfer Reliability Guide
