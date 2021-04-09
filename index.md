@@ -2,9 +2,8 @@
 
 
 
-##  Tier 0 | Official Sources
+## :white_large_square: Tier 0 | Official Sources
 
-:white_large_square:
 RealMadrid.com - Twitter @realmadrid @realmadriden - Real Madrid TV - Instagram @realmadrid
 
 
