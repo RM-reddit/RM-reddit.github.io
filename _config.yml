@@ -4,5 +4,3 @@ plugins:
 
 emoji:
   src: "https://github.githubassets.com/images/icons/"
-
-theme: jekyll-theme-tactile
