@@ -25,14 +25,14 @@ Onda Cero (Spain)	 - Josep Pedrerol (Spain) - Carlos Carpio (Marca)
 David Garrido (Sky Spain) - Gerard Romero (Barcelona, RAC1) - Edu Aguirre (Chiringuito)
 Cadena SER (Madrid) - Manu Sainz (AS) - 	El Transistor - Nacho Peña - Jorge Calabrés		
 
-## :orange_square: Tier 4 | Not Realiable :orange_square:
+## :orange_square: Tier 4 | Not Realiable
 
 
 AS (Spain) - El Chiringuito (Spain) - Radio Catalunya (Barcelona)
 Lucas Navarette (Managing Madrid) - Diego Martinez (Diario AS) - El Primer Palo		
 abc.es - RAC1 (Barcelona) - 	El Golazo de Gol		
 
-## :red_square: Tier 5 | Completly unrealiable :red_square: 
+## :red_square: Tier 5 | Completly unrealiable
 
 
 Mundo Deportivo (Spain) - Jose Alvarez Haya (El Chiringuito)
