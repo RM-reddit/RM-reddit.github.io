@@ -1,8 +1,8 @@
 ![RM Transfer Guide Header](https://user-images.githubusercontent.com/82177200/114086522-909a0b00-9867-11eb-9ed3-8d87756121c3.png)
 
-✅
 
-## ✅ :white_large_square: Tier 0 | Official Sources
+
+## :white_large_square: Tier 0 | Official Sources
 
 RealMadrid.com - Twitter @realmadrid @realmadriden - Real Madrid TV - Instagram @realmadrid
 
