@@ -9,7 +9,7 @@
 > RealMadrid.com - Twitter @realmadrid @realmadriden - Real Madrid TV - Instagram @realmadrid
 
 
-# :green_square: Tier 1 
+# :white_check_mark: Tier 1 
 **Highly Realiable**
 
 > Arancha Rodriguez - José Luis Sánchez - Melchor Ruiz
