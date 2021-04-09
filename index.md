@@ -2,19 +2,19 @@
 
 
 
-# Tier 0 :white_large_square:
+# :white_large_square: Tier 0 
 **Official Sources**
 
 
 > RealMadrid.com - Twitter @realmadrid @realmadriden - Real Madrid TV - Instagram @realmadrid
 
 
-# Tier 1 :green_square:
+# :green_square: Tier 1 
 **Highly Realiable**
 
 > Arancha Rodriguez - José Luis Sánchez - Melchor Ruiz
 
-# Tier 2 :green_square:
+# :green_square: Tier 2
 **Mostly Realiable**
 
 
@@ -22,7 +22,7 @@
 Miguel Ángel Díaz (Madrid) - Edu Pidal	 - 	Mundo Deportivo
 Edu Polo - Sid Lowe (Freelance, Spain)	- 	Sergio Valentin					
 
-# Tier 3 :yellow_square:
+# :yellow_square: Tier 3
 **Average Reliability**
 
 
@@ -30,7 +30,7 @@ Edu Polo - Sid Lowe (Freelance, Spain)	- 	Sergio Valentin
 David Garrido (Sky Spain) - Gerard Romero (Barcelona, RAC1) - Edu Aguirre (Chiringuito)
 Cadena SER (Madrid) - Manu Sainz (AS) - 	El Transistor - Nacho Peña - Jorge Calabrés		
 
-# Tier 4 :orange_square:
+# :orange_square: Tier 4
 **Not Realiable**
 
 
@@ -38,7 +38,7 @@ Cadena SER (Madrid) - Manu Sainz (AS) - 	El Transistor - Nacho Peña - Jorge Cal
 Lucas Navarette (Managing Madrid) - Diego Martinez (Diario AS) - El Primer Palo		
 abc.es - RAC1 (Barcelona) - 	El Golazo de Gol		
 
-# Tier 5 :red_square:
+# :red_square: Tier 5
 **Completly unrealiable**
 
 
@@ -46,7 +46,7 @@ abc.es - RAC1 (Barcelona) - 	El Golazo de Gol
 Guillem Balague (England/Spain)
 
 
-# Banned Sources 	:black_large_square:
+# :black_large_square: Banned Sources
 
 > Don Balon - Diario Gol - Sport (Spain)		
 
