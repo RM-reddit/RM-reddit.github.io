@@ -5,19 +5,19 @@
 # Tier 0
 **Official Sources**
 
-RealMadrid.com - Twitter @realmadrid @realmadriden - Real Madrid TV - Instagram @realmadrid
+> RealMadrid.com - Twitter @realmadrid @realmadriden - Real Madrid TV - Instagram @realmadrid
 
 # Tier 1
 **Highly Realiable**
 
-Arancha Rodriguez - José Luis Sánchez - Melchor Ruiz
+> Arancha Rodriguez - José Luis Sánchez - Melchor Ruiz
 
 # Tier 2
 **Mostly Realiable**
 
-Marca (Spain) -		COPE (Spain) - José Félix Díaz (Marca)
-Miguel Ángel Díaz (Madrid) - Edu Pidal	 - 	Mundo Deportivo
-Edu Polo - Sid Lowe (Freelance, Spain)	- 	Sergio Valentin					
+> Marca (Spain) -		COPE (Spain) - José Félix Díaz (Marca)
+> Miguel Ángel Díaz (Madrid) - Edu Pidal	 - 	Mundo Deportivo
+> Edu Polo - Sid Lowe (Freelance, Spain)	- 	Sergio Valentin					
 
 # Tier 3
 **Average Reliability**
@@ -47,5 +47,5 @@ Don Balon - Diario Gol - Sport (Spain)
 ##
 
 
-Made by: [reddit/r/realmadrid](https://www.reddit.com/r/realmadrid) & [discord.gg/realmadrid](https://discord.com/invite/RealMadrid)
+> Made by: [reddit/r/realmadrid](https://www.reddit.com/r/realmadrid) & [discord.gg/realmadrid](https://discord.com/invite/RealMadrid)
 V 6.0 Updated on April 2021
