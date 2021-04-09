@@ -2,10 +2,10 @@
 
 
 
-# Tier 0 `<Official Sources>`
+# Tier 0
 ## Official Sources
 
-RealMadrid.com - Twitter @realmadrid @realmadriden - Real Madrid TV - Instagram @realmadrid 
+`<RealMadrid.com - Twitter @realmadrid @realmadriden - Real Madrid TV - Instagram @realmadrid>`
 
 # Tier 1
 ## Highly Realiable
