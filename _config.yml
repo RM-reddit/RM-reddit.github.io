@@ -1,3 +1,6 @@
 
 plugins:
   - jemoji
+
+emoji:
+  src: "https://github.githubassets.com/images/icons/"
