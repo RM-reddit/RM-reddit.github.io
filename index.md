@@ -13,17 +13,22 @@ Arancha Rodriguez - José Luis Sánchez - Melchor Ruiz
 
 ## 🟩 Tier 2 | Mostly Realiable
 
+### Spanish Sources
 
-Marca (Spain) -		COPE (Spain) - José Félix Díaz (Marca)
+Marca (Spain) -	COPE (Spain) - José Félix Díaz (Marca)
 Miguel Ángel Díaz (Madrid) - Edu Pidal	 - 	Mundo Deportivo
 Edu Polo - Sid Lowe (Freelance, Spain)	- 	Sergio Valentin					
+
+### International Sources
+
+This guy - That guy
 
 ## 🟨 Tier 3 | Average Reliability
 
 
-Onda Cero (Spain)	 - Josep Pedrerol (Spain) - Carlos Carpio (Marca)
+Onda Cero (Spain) - Josep Pedrerol (Spain) - Carlos Carpio (Marca)
 David Garrido (Sky Spain) - Gerard Romero (Barcelona, RAC1) - Edu Aguirre (Chiringuito)
-Cadena SER (Madrid) - Manu Sainz (AS) - 	El Transistor - Nacho Peña - Jorge Calabrés		
+Cadena SER (Madrid) - Manu Sainz (AS) - El Transistor - Nacho Peña - Jorge Calabrés		
 
 ## 🟧 Tier 4 | Not Realiable
 
