@@ -15,6 +15,8 @@ Arancha Rodriguez - José Luis Sánchez - Melchor Ruiz
 
 * International Sources
 
+BBC (UK) - Telegraaf (Nederlands) - 
+
 ## 🟩 Tier 2 | Mostly Realiable
 
 * Spanish Sources
