@@ -9,45 +9,61 @@ RealMadrid.com - Twitter @realmadrid @realmadriden - Real Madrid TV - Instagram 
 
 ## ✅ Tier 1 | Highly Realiable
 
+* Spanish Sources
+
 Arancha Rodriguez - José Luis Sánchez - Melchor Ruiz
+
+* International Sources
 
 ## 🟩 Tier 2 | Mostly Realiable
 
-### Spanish Sources
+* Spanish Sources
 
 Marca (Spain) -	COPE (Spain) - José Félix Díaz (Marca)
 Miguel Ángel Díaz (Madrid) - Edu Pidal	 - 	Mundo Deportivo
 Edu Polo - Sid Lowe (Freelance, Spain)	- 	Sergio Valentin					
 
-### International Sources
+* International Sources
 
 This guy - That guy
 
 ## 🟨 Tier 3 | Average Reliability
 
+* Spanish Sources
 
 Onda Cero (Spain) - Josep Pedrerol (Spain) - Carlos Carpio (Marca)
 David Garrido (Sky Spain) - Gerard Romero (Barcelona, RAC1) - Edu Aguirre (Chiringuito)
 Cadena SER (Madrid) - Manu Sainz (AS) - El Transistor - Nacho Peña - Jorge Calabrés		
 
+* International Sources
+
 ## 🟧 Tier 4 | Not Realiable
 
+* Spanish Sources
 
 AS (Spain) - El Chiringuito (Spain) - Radio Catalunya (Barcelona)
 Lucas Navarette (Managing Madrid) - Diego Martinez (Diario AS) - El Primer Palo		
 abc.es - RAC1 (Barcelona) - 	El Golazo de Gol		
 
+* International Sources
+
 ## 🟥 Tier 5 | Completly unrealiable
 
+* Spanish Sources
 
 Mundo Deportivo (Spain) - Jose Alvarez Haya (El Chiringuito)
 Guillem Balague (England/Spain)
 
+* International Sources
+
 
 ## ⬛ Banned Sources
 
+* Spanish Sources
+
 Don Balon - Diario Gol - Sport (Spain)		
 
+* International Sources
 
 
 
