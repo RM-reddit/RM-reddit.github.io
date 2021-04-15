@@ -56,5 +56,5 @@ Don Balon - Diario Gol - Sport (Spain)
 
 __________
 
-Made by: [reddit/r/realmadrid](https://www.reddit.com/r/realmadrid) & [discord.gg/realmadrid](https://discord.com/invite/RealMadrid)
+[reddit/r/realmadrid](https://www.reddit.com/r/realmadrid) & [discord.gg/realmadrid](https://discord.com/invite/RealMadrid)
 V 6.0 Updated on April 2021
