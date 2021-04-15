@@ -1,6 +1,6 @@
 __________
 
-![RM Transfer Guide Header](https://user-images.githubusercontent.com/82177200/114086522-909a0b00-9867-11eb-9ed3-8d87756121c3.png)
+![RM Transfer Guide Header](https://github.com/RM-reddit/RM-reddit.github.io/blob/main/img/RMTransferGuideHeader2.png)
 
 __________
 
