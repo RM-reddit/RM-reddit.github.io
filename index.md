@@ -13,8 +13,14 @@ RealMadrid.com - Twitter @realmadrid @realmadriden - Real Madrid TV - Instagram 
 ## ✅ Tier 1 | Highly Realiable
 
 
-Arancha Rodriguez - José Luis Sánchez - Melchor Ruiz
+### Spain
 
+**Arancha Rodriguez - José Luis Sánchez - Melchor Ruiz**
+
+### International
+
+**Simon Stone** (England, BBC) - **Mohamed Bouhafsi** (France) - **Fabrizio Romano** (Sky Sport Italia) - **Kristof Terreur** (The Guardian) - **David Ornstein** (The Athletic) - **Gianluca Di Marzio** (Sky Sport Italia) - **Romeo Agresti** (Goal Italy) - **Alfredo Pedulla** (Freelance Italy) - **Paul Joyce** (Times England) - **James Pearce** (Echo England)
+**BBC** (England) - **Der Spiegel** (Germany) - **Telegraaf** (Nederlands) - **RTP 1** (Portugal) - **Paris United** (France)
 
 ## 🟩 Tier 2 | Mostly Realiable
 
