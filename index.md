@@ -7,7 +7,7 @@ __________
 
 ## ⬜ Tier 0 | Official Sources
 
-RealMadrid.com - Twitter @realmadrid @realmadriden - Real Madrid TV - Instagram @realmadrid
+**RealMadrid.com - Twitter @realmadrid @realmadriden - Real Madrid TV**
 
 
 ## ✅ Tier 1 | Highly Realiable
@@ -26,23 +26,26 @@ RealMadrid.com - Twitter @realmadrid @realmadriden - Real Madrid TV - Instagram 
 
 ### Spain
 
-Marca -	COPE - José Félix Díaz (Marca) - Miguel Ángel Díaz (Madrid) - Edu Pidal - Mundo Deportivo - Edu Polo - Sid Lowe (Freelance) - Sergio Valentin				
+**José Félix Díaz** (Marca) - **Miguel Ángel Díaz** (Madrid) - **Edu Pidal**(Onda Cero) - **Edu Polo** (Mundo Deportivo) - **Sid Lowe** (Freelance) - **Sergio Valentin** (El Primer Palo)
+**Marca** -	**COPE** - **Mundo Deportivo**
 
 ### International
 
-Matt Law (Telegraph, England) - Sam Lee (Goal.com, England) - Dan Kilpatrick (ESPN, England) - James Ducker (Telegraph, England) - Melissa Reddy (Goal.com, England) - Simon Mullock (The Mirror, England) - Raphael Honigstein (Sky Germany) - Leverkusener Anzeiger (Germany) - Der Westen (Germany) - 
+**Matt Law** (Telegraph, England) - **Sam Lee** (Goal.com, England) - **Dan Kilpatrick** (ESPN, England) - **James Ducker** (Telegraph, England) - **Melissa Reddy** (Goal.com, England) - **Simon Mullock** (The Mirror, England) - **Raphael Honigstein** (Sky Germany) - **Leverkusener Anzeiger** (Germany) - **Der Westen** (Germany)
 
-Sky Sport (Italia) - Bild (Germany) - RMC Sports (France) - oJogo (Portugal) - LeParisien (France) - beIN SPORTS
+**Sky Sport** (Italia) - **Bild** (Germany) - **RMC Sports** (France) - **oJogo** (Portugal) - **LeParisien** (France) - **beIN SPORTS**
 
 ## 🟨 Tier 3 | Average Reliability
 
 ### Spain
 
-Josep Pedrerol - Carlos Carpio (Marca) - David Garrido (Sky Spain) - Gerard Romero (Barcelona, RAC1) - Edu Aguirre (Chiringuito) - Manu Sainz (AS) - Cadena SER - El Transistor - Nacho Peña - Jorge Calabrés - Onda Cero
+**Josep Pedrerol** (El Chiringuito) - **Carlos Carpio** (Marca) - **David Garrido** (Sky Spain) - **Gerard Romero** (RAC1) - **Edu Aguirre** (Chiringuito) - **Manu Sainz** (AS) - **Nacho Peña** (DirectTV Sports) - **Jorge Calabrés** (elbernabeu.com)
+
+**Cadena SER - El Transistor - Onda Cero**
 
 ### International
 
-Telegraph (England) - Guardian (England) - Independant (England) - Sky Sports (England) - CalcioMercato (Italy) - Corriere dello Sport (Italy) - Sport1 (Germany) - Le Parisien (France) - Gazzetta dello Sport (Italy) - Sky Sports Germany (Germany) - aBola (Portugal) - Record (Portugal) - L’Equipe (France)
+**Telegraph** (England) - **Guardian** (England) - **Independant** (England) - **Sky Sports** (England) - **CalcioMercato** (Italy) - **Corriere dello Sport** (Italy) - **Sport1** (Germany) - **Le Parisien** (France) - **Gazzetta dello Sport** (Italy) - **Sky Sports Germany** (Germany) - **aBola** (Portugal) - **Record** (Portugal) - **L’Equipe** (France)
 
 
 ## 🟧 Tier 4 | Not Realiable
