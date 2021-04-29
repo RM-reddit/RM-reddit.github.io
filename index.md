@@ -42,6 +42,7 @@ __________
 ### Spain
 
 **Josep Pedrerol** (El Chiringuito) - **Carlos Carpio** (Marca) - **David Garrido** (Sky Spain) - **Gerard Romero** (RAC1) - **Edu Aguirre** (Chiringuito) - **Manu Sainz** (AS) - **Nacho Peña** (DirectTV Sports) - **Jorge Calabrés** (elbernabeu.com)
+
 **Cadena SER - El Transistor - Onda Cero**
 
 ### International
@@ -54,6 +55,7 @@ __________
 ### Spain
 
 **Lucas Navarette** (Managing Madrid) - **Diego Martinez** (Diario AS)
+
 **AS** - **El Chiringuito** - **Radio Catalunya** (Barcelona) - **El Primer Palo** - **abc.es** - **RAC1** (Barcelona) - **El Golazo de Gol**
 
 ### International
