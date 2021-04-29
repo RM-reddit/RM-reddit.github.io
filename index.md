@@ -77,7 +77,7 @@ __________
 ## ⬛ Banned Sources
 
 
-Don Balon - Diario Gol - Sport (Spain) - LadBible (UK) - The Sun (UK)
+**Don Balon** (Spain) - **Diario Gol** (Spain) - **Sport** (Spain) - **LadBible** (UK) - **The Sun** (UK)
 
 
 __________
