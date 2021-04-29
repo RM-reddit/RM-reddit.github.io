@@ -19,8 +19,8 @@ __________
 ### International
 
 **Simon Stone** (England, BBC) - **Mohamed Bouhafsi** (France) - **Fabrizio Romano** (Sky Sport Italia) - **Kristof Terreur** (The Guardian) - **David Ornstein** (The Athletic) - **Gianluca Di Marzio** (Sky Sport Italia) - **Romeo Agresti** (Goal Italy) - **Alfredo Pedulla** (Freelance Italy) - **Paul Joyce** (Times England) - **James Pearce** (Echo England)
-
 **BBC** (England) - **Der Spiegel** (Germany) - **Telegraaf** (Nederlands) - **RTP 1** (Portugal) - **Paris United** (France)
+
 
 ## 🟩 Tier 2 | Mostly Realiable
 
@@ -32,15 +32,14 @@ __________
 ### International
 
 **Matt Law** (Telegraph, England) - **Sam Lee** (Goal.com, England) - **Dan Kilpatrick** (ESPN, England) - **James Ducker** (Telegraph, England) - **Melissa Reddy** (Goal.com, England) - **Simon Mullock** (The Mirror, England) - **Raphael Honigstein** (Sky Germany) - **Leverkusener Anzeiger** (Germany) - **Der Westen** (Germany)
-
 **Sky Sport** (Italia) - **Bild** (Germany) - **RMC Sports** (France) - **oJogo** (Portugal) - **LeParisien** (France) - **beIN SPORTS**
+
 
 ## 🟨 Tier 3 | Average Reliability
 
 ### Spain
 
 **Josep Pedrerol** (El Chiringuito) - **Carlos Carpio** (Marca) - **David Garrido** (Sky Spain) - **Gerard Romero** (RAC1) - **Edu Aguirre** (Chiringuito) - **Manu Sainz** (AS) - **Nacho Peña** (DirectTV Sports) - **Jorge Calabrés** (elbernabeu.com)
-
 **Cadena SER - El Transistor - Onda Cero**
 
 ### International
@@ -52,22 +51,25 @@ __________
 
 ### Spain
 
-AS (Spain) - El Chiringuito (Spain) - Radio Catalunya (Barcelona) - Lucas Navarette (Managing Madrid) - Diego Martinez (Diario AS) - El Primer Palo - abc.es - RAC1 (Barcelona) - El Golazo de Gol
+**Lucas Navarette** (Managing Madrid) - **Diego Martinez** (Diario AS)
+**AS** - **El Chiringuito** - **Radio Catalunya** (Barcelona) - **El Primer Palo** - **abc.es** - **RAC1** (Barcelona) - **El Golazo de Gol**
 
 ### International
 
-The Mirror (UK) - Bleacher Report - Talksport (England) - Tuttosport (Italy)
+**The Mirror** (UK) - **Bleacher Report** - **Talksport** (England) - **Tuttosport** (Italy)
+
 
 ## 🟥 Tier 5 | Completly unrealiable
 
 ### Spain
 
-Mundo Deportivo (Spain) - Jose Alvarez Haya (El Chiringuito)
-Guillem Balague (England/Spain)
+**Jose Alvarez Haya** (El Chiringuito) - **Guillem Balague** (BBC5)
+**Mundo Deportivo**
 
 ### International
 
-Tancredi Palmieri (BeIN, Italy) - 90min - Daily Star - Squawka - Metro (UK)
+**90min** - **Daily Star** - **Squawka** - **Metro** (UK) - **Tancredi Palmieri** (BeIN, Italy)
+
 
 ## ⬛ Banned Sources
 
