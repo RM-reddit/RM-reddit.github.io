@@ -26,7 +26,7 @@ RealMadrid.com - Twitter @realmadrid @realmadriden - Real Madrid TV - Instagram 
 
 ### Spain
 
-Marca (Spain) -	COPE (Spain) - José Félix Díaz (Marca) - Miguel Ángel Díaz (Madrid) - Edu Pidal - Mundo Deportivo - Edu Polo - Sid Lowe (Freelance, Spain) - Sergio Valentin				
+Marca -	COPE - José Félix Díaz (Marca) - Miguel Ángel Díaz (Madrid) - Edu Pidal - Mundo Deportivo - Edu Polo - Sid Lowe (Freelance) - Sergio Valentin				
 
 ### International
 
@@ -36,32 +36,40 @@ Sky Sport (Italia) - Bild (Germany) - RMC Sports (France) - oJogo (Portugal) - L
 
 ## 🟨 Tier 3 | Average Reliability
 
+### Spain
 
-Onda Cero (Spain) - Josep Pedrerol (Spain) - Carlos Carpio (Marca)
-David Garrido (Sky Spain) - Gerard Romero (Barcelona, RAC1) - Edu Aguirre (Chiringuito)
-Cadena SER (Madrid) - Manu Sainz (AS) - El Transistor - Nacho Peña - Jorge Calabrés		
+Josep Pedrerol - Carlos Carpio (Marca) - David Garrido (Sky Spain) - Gerard Romero (Barcelona, RAC1) - Edu Aguirre (Chiringuito) - Manu Sainz (AS) - Cadena SER - El Transistor - Nacho Peña - Jorge Calabrés - Onda Cero
+
+### International
+
+Telegraph (England) - Guardian (England) - Independant (England) - Sky Sports (England) - CalcioMercato (Italy) - Corriere dello Sport (Italy) - Sport1 (Germany) - Le Parisien (France) - Gazzetta dello Sport (Italy) - Sky Sports Germany (Germany) - aBola (Portugal) - Record (Portugal) - L’Equipe (France)
 
 
 ## 🟧 Tier 4 | Not Realiable
 
+### Spain
 
-AS (Spain) - El Chiringuito (Spain) - Radio Catalunya (Barcelona)
-Lucas Navarette (Managing Madrid) - Diego Martinez (Diario AS) - El Primer Palo		
-abc.es - RAC1 (Barcelona) - 	El Golazo de Gol		
+AS (Spain) - El Chiringuito (Spain) - Radio Catalunya (Barcelona) - Lucas Navarette (Managing Madrid) - Diego Martinez (Diario AS) - El Primer Palo - abc.es - RAC1 (Barcelona) - El Golazo de Gol
 
+### International
+
+The Mirror (UK) - Bleacher Report - Talksport (England) - Tuttosport (Italy)
 
 ## 🟥 Tier 5 | Completly unrealiable
 
+### Spain
 
 Mundo Deportivo (Spain) - Jose Alvarez Haya (El Chiringuito)
 Guillem Balague (England/Spain)
 
+### International
 
+Tancredi Palmieri (BeIN, Italy) - 90min - Daily Star - Squawka - Metro (UK)
 
 ## ⬛ Banned Sources
 
 
-Don Balon - Diario Gol - Sport (Spain)		
+Don Balon - Diario Gol - Sport (Spain) - LadBible (UK) - The Sun (UK)
 
 
 __________
