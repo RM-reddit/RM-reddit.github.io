@@ -19,6 +19,7 @@ __________
 ### International
 
 **Simon Stone** (England, BBC) - **Mohamed Bouhafsi** (France) - **Fabrizio Romano** (Sky Sport Italia) - **Kristof Terreur** (The Guardian) - **David Ornstein** (The Athletic) - **Gianluca Di Marzio** (Sky Sport Italia) - **Romeo Agresti** (Goal Italy) - **Alfredo Pedulla** (Freelance Italy) - **Paul Joyce** (Times England) - **James Pearce** (Echo England)
+
 **BBC** (England) - **Der Spiegel** (Germany) - **Telegraaf** (Nederlands) - **RTP 1** (Portugal) - **Paris United** (France)
 
 
@@ -27,6 +28,7 @@ __________
 ### Spain
 
 **José Félix Díaz** (Marca) - **Miguel Ángel Díaz** (Madrid) - **Edu Pidal**(Onda Cero) - **Edu Polo** (Mundo Deportivo) - **Sid Lowe** (Freelance) - **Sergio Valentin** (El Primer Palo)
+
 **Marca** -	**COPE** - **Mundo Deportivo**
 
 ### International
@@ -63,8 +65,7 @@ __________
 
 ### Spain
 
-**Jose Alvarez Haya** (El Chiringuito) - **Guillem Balague** (BBC5)
-**Mundo Deportivo**
+**Jose Alvarez Haya** (El Chiringuito) - **Guillem Balague** (BBC5) - **Mundo Deportivo**
 
 ### International
 
