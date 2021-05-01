@@ -10,7 +10,7 @@ __________
 **RealMadrid.com - Twitter @realmadrid @realmadriden - Real Madrid TV**
 
 
-## ✅ Tier 1 | Highly Realiable
+## ✅ Tier 1 | Highly Reliable
 
 ### Spain
 
@@ -23,7 +23,7 @@ __________
 **BBC** (England) - **Der Spiegel** (Germany) - **Telegraaf** (Nederlands) - **RTP 1** (Portugal) - **Paris United** (France)
 
 
-## 🟩 Tier 2 | Mostly Realiable
+## 🟩 Tier 2 | Mostly Reliable
 
 ### Spain
 
@@ -47,10 +47,10 @@ __________
 
 ### International
 
-**Telegraph** (England) - **Guardian** (England) - **Independant** (England) - **Sky Sports** (England) - **CalcioMercato** (Italy) - **Corriere dello Sport** (Italy) - **Sport1** (Germany) - **Le Parisien** (France) - **Gazzetta dello Sport** (Italy) - **Sky Sports Germany** (Germany) - **aBola** (Portugal) - **Record** (Portugal) - **L’Equipe** (France)
+**Telegraph** (England) - **Guardian** (England) - **Independent** (England) - **Sky Sports** (England) - **CalcioMercato** (Italy) - **Corriere dello Sport** (Italy) - **Sport1** (Germany) - **Le Parisien** (France) - **Gazzetta dello Sport** (Italy) - **Sky Sports Germany** (Germany) - **aBola** (Portugal) - **Record** (Portugal) - **L’Equipe** (France)
 
 
-## 🟧 Tier 4 | Not Realiable
+## 🟧 Tier 4 | Not Reliable
 
 ### Spain
 
@@ -63,7 +63,7 @@ __________
 **The Mirror** (UK) - **Bleacher Report** - **Talksport** (England) - **Tuttosport** (Italy)
 
 
-## 🟥 Tier 5 | Completly unrealiable
+## 🟥 Tier 5 | Completly Unreliable
 
 ### Spain
 
