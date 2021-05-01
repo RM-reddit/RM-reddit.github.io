@@ -27,7 +27,7 @@ __________
 
 ### Spain
 
-**José Félix Díaz** (Marca) - **Miguel Ángel Díaz** (Madrid) - **Edu Pidal**(Onda Cero) - **Edu Polo** (Mundo Deportivo) - **Sid Lowe** (Freelance) - **Sergio Valentin** (El Primer Palo)
+**José Félix Díaz** (Marca) - **Miguel Ángel Díaz** (COPE) - **Edu Pidal** (Onda Cero) - **Edu Polo** (Mundo Deportivo) - **Sid Lowe** (Freelance) - **Sergio Valentin** (El Primer Palo)
 
 **Marca** -	**COPE** - **Mundo Deportivo**
 
