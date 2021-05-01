@@ -18,9 +18,9 @@ __________
 
 ### International
 
-**Simon Stone** (England, BBC) - **Mohamed Bouhafsi** (France) - **Fabrizio Romano** (Sky Sport Italia) - **Kristof Terreur** (The Guardian) - **David Ornstein** (The Athletic) - **Gianluca Di Marzio** (Sky Sport Italia) - **Romeo Agresti** (Goal Italy) - **Alfredo Pedulla** (Freelance Italy) - **Paul Joyce** (Times England) - **James Pearce** (Echo England)
+**Fabrizio Romano** (Sky Sport Italia) - **Gianluca Di Marzio** (Sky Sport Italia) - **Simon Stone** (England, BBC) - **Mohamed Bouhafsi** (France) - **Kristof Terreur** (The Guardian) - **David Ornstein** (The Athletic) - **Romeo Agresti** (Goal Italy) - **Alfredo Pedulla** (Freelance Italy) - **Paul Joyce** (Times England) - **James Pearce** (Echo England)
 
-**BBC** (England) - **Der Spiegel** (Germany) - **Telegraaf** (Nederlands) - **RTP 1** (Portugal) - **Paris United** (France)
+**BBC** (England) - **Der Spiegel** (Germany) - **Telegraaf** (Nederlands) - **RTP 1** (Portugal)
 
 
 ## 🟩 Tier 2 | Mostly Reliable
@@ -34,7 +34,7 @@ __________
 ### International
 
 **Matt Law** (Telegraph, England) - **Sam Lee** (Goal.com, England) - **Dan Kilpatrick** (ESPN, England) - **James Ducker** (Telegraph, England) - **Melissa Reddy** (Goal.com, England) - **Simon Mullock** (The Mirror, England) - **Raphael Honigstein** (Sky Germany) - **Leverkusener Anzeiger** (Germany) - **Der Westen** (Germany)
-**Sky Sport** (Italia) - **Bild** (Germany) - **RMC Sports** (France) - **oJogo** (Portugal) - **LeParisien** (France) - **beIN SPORTS**
+**Sky Sport** (Italia) - **Bild** (Germany) - **RMC Sports** (France) - **oJogo** (Portugal) - **LeParisien** (France) - **beIN SPORTS** - **Paris United** (France)
 
 
 ## 🟨 Tier 3 | Average Reliability
