@@ -63,7 +63,7 @@ __________
 **The Mirror** (UK) - **Bleacher Report** - **Talksport** (England) - **Tuttosport** (Italy)
 
 
-## 🟥 Tier 5 | Completly Unreliable
+## 🟥 Tier 5 | Completely Unreliable
 
 ### Spain
 
