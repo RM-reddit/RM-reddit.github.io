@@ -29,7 +29,7 @@ __________
 
 **José Félix Díaz** (Marca) - **Miguel Ángel Díaz** (COPE) - **Edu Pidal** (Onda Cero) - **Edu Polo** (Mundo Deportivo) - **Sid Lowe** (Freelance) - **Sergio Valentin** (El Primer Palo)
 
-**Marca** -	**COPE** - **Mundo Deportivo**
+**Marca** -	**COPE**
 
 ### International
 
@@ -56,7 +56,7 @@ __________
 
 **Lucas Navarette** (Managing Madrid) - **Diego Martinez** (Diario AS)
 
-**AS** - **El Chiringuito** - **Radio Catalunya** (Barcelona) - **El Primer Palo** - **abc.es** - **RAC1** (Barcelona) - **El Golazo de Gol**
+**AS** - **El Chiringuito** - **Radio Catalunya** (Barcelona) - **El Primer Palo** - **abc.es** - **RAC1** (Barcelona) - **El Golazo de Gol** -  - **Mundo Deportivo**
 
 ### International
 
@@ -67,7 +67,7 @@ __________
 
 ### Spain
 
-**Jose Alvarez Haya** (El Chiringuito) - **Guillem Balague** (BBC5) - **Mundo Deportivo**
+**Jose Alvarez Haya** (El Chiringuito) - **Guillem Balague** (BBC5)
 
 ### International
 
