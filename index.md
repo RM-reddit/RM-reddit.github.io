@@ -82,5 +82,5 @@ __________
 
 __________
 
-[reddit/r/realmadrid](https://www.reddit.com/r/realmadrid) & [discord.gg/realmadrid](https://discord.com/invite/RealMadrid)
+Credits: [reddit/r/realmadrid](https://www.reddit.com/r/realmadrid) & [discord.gg/realmadrid](https://discord.com/invite/syH7yen)
 V 6.0 Updated on April 2021
