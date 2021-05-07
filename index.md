@@ -60,7 +60,7 @@ __________
 
 ### International
 
-**The Mirror** (UK) - **Bleacher Report** - **Talksport** (England) - **Tuttosport** (Italy)
+**Talksport** (England) - **Tuttosport** (Italy)
 
 
 ## 🟥 Tier 5 | Completely Unreliable
@@ -71,7 +71,7 @@ __________
 
 ### International
 
-**90min** - **Daily Star** - **Squawka** - **Metro** (UK) - **Tancredi Palmieri** (BeIN, Italy)
+**The Mirror** (UK) - **Bleacher Report** - **90min** - **Daily Star** - **Squawka** - **Metro** (UK) - **Tancredi Palmieri** (BeIN, Italy)
 
 
 ## ⬛ Banned Sources
