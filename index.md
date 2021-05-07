@@ -7,7 +7,7 @@ __________
 
 ## ⬜ Tier 0 | Official Sources
 
-**RealMadrid.com - Twitter @realmadrid, @realmadriden - Real Madrid TV**
+**RealMadrid.com - Twitter: @realmadrid, @realmadriden - Real Madrid TV**
 
 
 ## ✅ Tier 1 | Highly Reliable
