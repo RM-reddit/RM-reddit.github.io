@@ -1,5 +1,6 @@
 plugins:
   - jemoji
 
+name: hello world
 
 theme: jekyll-theme-cayman
