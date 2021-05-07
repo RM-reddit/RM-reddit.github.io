@@ -56,7 +56,7 @@ __________
 
 **Lucas Navarette** (Managing Madrid) - **Diego Martinez** (Diario AS)
 
-**AS** - **El Chiringuito** - **Radio Catalunya** (Barcelona) - **El Primer Palo** - **abc.es** - **RAC1** (Barcelona) - **El Golazo de Gol** -  - **Mundo Deportivo**
+**AS** - **El Chiringuito** - **Radio Catalunya** (Barcelona) - **El Primer Palo** - **abc.es** - **RAC1** (Barcelona) - **El Golazo de Gol** - **Mundo Deportivo**
 
 ### International
 
