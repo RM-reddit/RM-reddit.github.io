@@ -34,7 +34,7 @@ __________
 ### International
 
 **Matt Law** (Telegraph, England) - **Sam Lee** (Goal.com, England) - **Dan Kilpatrick** (ESPN, England) - **James Ducker** (Telegraph, England) - **Melissa Reddy** (Goal.com, England) - **Simon Mullock** (The Mirror, England) - **Raphael Honigstein** (Sky Germany) - **Der Westen** (Germany)
-**Sky Sport** (Italia) - **Bild** (Germany) - **RMC Sports** (France) - **oJogo** (Portugal) - **LeParisien** (France) - **beIN SPORTS** - **Paris United** (France) - **Leverkusener Anzeiger** (Germany)
+**Sky Sport Italia** (Italy) - **Bild** (Germany) - **RMC Sports** (France) - **oJogo** (Portugal) - **LeParisien** (France) - **beIN SPORTS**- **Leverkusener Anzeiger** (Germany)
 
 
 ## 🟨 Tier 3 | Average Reliability
