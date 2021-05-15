@@ -60,7 +60,7 @@ __________
 
 ### International
 
-**Talksport** (England) - **Tuttosport** (Italy)
+**Goal.com** - **Talksport** (England) - **Tuttosport** (Italy)
 
 
 ## 🟥 Tier 5 | Completely Unreliable
