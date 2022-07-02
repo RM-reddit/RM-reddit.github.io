@@ -61,3 +61,27 @@ __________
 ### International
 
 **Goal.com** - **Talksport** (England) - **Tuttosport** (Italy)
+
+## 🟥 Tier 5 | Completely Unreliable
+
+### Spain
+
+**Jose Alvarez Haya** (El Chiringuito)
+
+**El Chiringuito** - **Radio Catalunya** (Barcelona) - **RAC1** (Barcelona) - **Mundo Deportivo**
+
+### International
+
+**The Mirror** (UK) - **Bleacher Report** - **90min** - **Daily Star** - **Squawka** - **Metro** (UK) - **Tancredi Palmieri** (BeIN, Italy)
+
+
+## ⬛ Banned Sources
+
+
+**Don Balon** (Spain) - **Diario Gol** (Spain) - **Sport** (Spain) - **LadBible** (UK) - **The Sun** (UK) - **Guillem Balague** (BBC5)
+
+
+__________
+
+Credits: [reddit/r/realmadrid](https://www.reddit.com/r/realmadrid) & [discord.gg/realmadrid](https://discord.com/invite/syH7yen)
+V 7.0 Updated on July 2022
