@@ -29,7 +29,7 @@ __________
 
 **José Félix Díaz** (Marca) - **Miguel Ángel Díaz** (COPE) - **Edu Pidal** (Onda Cero) - **Edu Polo** (Mundo Deportivo) - **Sid Lowe** (Freelance) - **Sergio Valentin** (El Primer Palo)
 
-**Marca** -	**COPE**
+**Marca** --	**COPE**
 
 ### International
 
